@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T20:29:11.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="hk7zFsiZ48oKm9_vlg-L" version="16.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-25T20:44:52.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="_vTfxJRAKBM1QfGZQtNc" version="16.2.7" type="github" pages="3">
   <diagram id="3am3MWbP5PsgSIlDmy36" name="Page-1">
     <mxGraphModel dx="2123" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-6" y="464" width="1398" height="1945" as="geometry" />
         </mxCell>
         <mxCell id="JkIb7CXmYl9X7y8F0MtA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="193.5" y="551" width="1099.5" height="1558" as="geometry" />
+          <mxGeometry x="193.5" y="551" width="1099.5" height="1651" as="geometry" />
         </mxCell>
         <mxCell id="cu5gm9QUt52b1lqdMHIw-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Админ&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="109" y="1185" width="30" height="60" as="geometry" />
@@ -351,6 +351,14 @@
       <root>
         <mxCell id="GWPmTN5CwfsV_2RFxvjX-0" />
         <mxCell id="GWPmTN5CwfsV_2RFxvjX-1" parent="GWPmTN5CwfsV_2RFxvjX-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DIB_3O82n_FjSl3ZQ21b" name="Page-3">
+    <mxGraphModel dx="1102" dy="666" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="EBonlw7OJ6cWZrAEUZhN-0" />
+        <mxCell id="EBonlw7OJ6cWZrAEUZhN-1" parent="EBonlw7OJ6cWZrAEUZhN-0" />
       </root>
     </mxGraphModel>
   </diagram>
