@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T22:00:12.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="oWhzXLIHmmWdqwRzkPrK" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T22:57:33.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="pr3JeTeCcuPAyA9xer_x" version="19.0.2" type="github">
   <diagram id="OWx4hyj13moDCeKYkGol" name="Page-1">
     <mxGraphModel dx="1335" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
             <mxPoint x="405" y="962.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_TbPJ2dsLFKyycq7Uun-34" value="0.0&lt;br&gt;Часть для функциональной диагностики" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="661" y="400" width="140" height="140" as="geometry" />
+        <mxCell id="R_TbPJ2dsLFKyycq7Uun-34" value="0.0&lt;br&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Мобильное приложение для функциональной диагностики&lt;/font&gt;&lt;/span&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="661" y="400" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="R_TbPJ2dsLFKyycq7Uun-35" value="&lt;div style=&quot;line-height: 0.9;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="165" width="3" height="15" as="geometry" />
