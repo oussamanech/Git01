@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T13:02:46.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Pb7nT9HHcgEzTTUkr0Xv" version="19.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-10T13:22:56.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="UyXVm5RVx5BqlnWn7P1a" version="19.0.3" type="github" pages="4">
   <diagram name="Page-1" id="jaZjA9ey6SBZGUk1t0Iv">
     <mxGraphModel dx="2329" dy="1000" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D-yUW482YGTC_Zu7iGBm" name="Page-3">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,39 @@
             <mxPoint x="180" y="220" as="sourcePoint" />
             <mxPoint x="450" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-3" value="Брутфорс пароля администратора&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-4" value="Внедрение XSS иньекции&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-5" value="Злоумышленник использует снифинг&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-6" value="Внедрение SQL иньекции&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-7" value="Перехват сессии администратора&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-8" value="Установлена система защиты от снифинга&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-9" value="физический доступ к БД&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-10" value="Внедрение е поток передачи данных и их изменение&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-11" value="Перенаправление трафика на сервер злоумышленника&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="360" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-12" value="Уничтожение или модификации данных&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zSki9OhiyoEQBppWvfLa-13" value="Доступ к 6Д хорошо защищён&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
