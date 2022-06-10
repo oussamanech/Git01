@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T13:28:09.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="NQyiUnuF9UfQAiqaxq6c" version="19.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-10T13:41:30.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="F824R352-1fDtkkdDFbn" version="19.0.3" type="github" pages="5">
   <diagram name="Page-1" id="jaZjA9ey6SBZGUk1t0Iv">
     <mxGraphModel dx="2329" dy="1000" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,7 +263,7 @@
           <mxGeometry x="360" y="510" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zSki9OhiyoEQBppWvfLa-13" value="Доступ к 6Д хорошо защищён&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="510" width="110" height="110" as="geometry" />
+          <mxGeometry x="516" y="510" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -273,6 +273,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NKsvQbc5VDfQFcT723eq" name="Page-5">
+    <mxGraphModel dx="1268" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-1" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-1" target="h4RY2EEA_z4JBNKLHRMh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-2" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-1" target="h4RY2EEA_z4JBNKLHRMh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-4" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-1" target="h4RY2EEA_z4JBNKLHRMh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-5" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-1" target="h4RY2EEA_z4JBNKLHRMh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-1" value="Раскрытие информации при передаче данных&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-2" value="Сервер размещён в открытой сети&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-8" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-3" target="h4RY2EEA_z4JBNKLHRMh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-3" value="Пути сервера не закрыты от индексации поисковых роботов&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-6" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-4" target="h4RY2EEA_z4JBNKLHRMh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-7" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;dashed=1;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-4" target="h4RY2EEA_z4JBNKLHRMh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-4" value="Раскрытие информации wеЬ-сервером&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-5" value="Наличие ошибки в функции получения данных из БД&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-6" value="Злоумышленник использует Google Dorks для поиска информации&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-10" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;dashed=1;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-7" target="h4RY2EEA_z4JBNKLHRMh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-7" value="web-сервер имеет уязвимость&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h3gCXNc4F7xy8EjRdXxM-9" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=14;endArrow=none;endFill=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="h4RY2EEA_z4JBNKLHRMh-8" target="h4RY2EEA_z4JBNKLHRMh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-8" value="Сервер настроен некорректно&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-9" value="&lt;div&gt;Сервер раскрывает свои или иные записи, либо другую чувствительную информацию&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RY2EEA_z4JBNKLHRMh-10" value="&lt;div&gt;Выбран надёжный сервер, проверенного производителя&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
