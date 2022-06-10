@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T17:51:36.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="k4uVLDXE6H8VDA8p4Txu" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T14:59:39.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="8uQi14Ng49sQeSFnTMiA" version="19.0.3" type="github">
   <diagram id="IhzEzsToBiXMktf6I1g5" name="Page-1">
-    <mxGraphModel dx="2480" dy="1286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1537" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
         </mxCell>
         <mxCell id="C1wmLBce0w5cXy57Bqss-30" value="Отклик на административное&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;воздействие" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" parent="C1wmLBce0w5cXy57Bqss-29" vertex="1" connectable="0">
           <mxGeometry x="0.2723" y="-8" relative="1" as="geometry">
-            <mxPoint x="183" y="-43" as="offset" />
+            <mxPoint x="57" y="-100" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="GBtB8UjbD1A0Evd2xpRH-1" target="GBtB8UjbD1A0Evd2xpRH-4">
@@ -106,7 +106,7 @@
         </mxCell>
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-14" value="Отправка запроса на фронтенд" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="GBtB8UjbD1A0Evd2xpRH-12">
           <mxGeometry x="-0.0531" y="26" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-34" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="GBtB8UjbD1A0Evd2xpRH-1" target="GBtB8UjbD1A0Evd2xpRH-2">
@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-4" value="6,0&lt;br style=&quot;font-size: 15px;&quot;&gt;Обработка запросов&lt;br style=&quot;font-size: 15px;&quot;&gt;с фронтенда" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="898" y="632" width="128" height="128" as="geometry" />
+          <mxGeometry x="879" y="622" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.772;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="GBtB8UjbD1A0Evd2xpRH-5" target="GBtB8UjbD1A0Evd2xpRH-1">
           <mxGeometry relative="1" as="geometry">
@@ -242,8 +242,9 @@
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.922;entryY=0.232;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="GBtB8UjbD1A0Evd2xpRH-6" target="GBtB8UjbD1A0Evd2xpRH-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1404" y="753" />
-              <mxPoint x="1016" y="753" />
+              <mxPoint x="1404" y="864" />
+              <mxPoint x="1404" y="676" />
+              <mxPoint x="1016" y="676" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -267,7 +268,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBtB8UjbD1A0Evd2xpRH-6" value="1,0&lt;br style=&quot;font-size: 15px;&quot;&gt;Обработка данных измененных администратором" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GBtB8UjbD1A0Evd2xpRH-6" value="10.0&lt;br style=&quot;font-size: 15px;&quot;&gt;Обработка данных измененных администратором" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1339" y="864" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GBtB8UjbD1A0Evd2xpRH-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="GBtB8UjbD1A0Evd2xpRH-20" target="GBtB8UjbD1A0Evd2xpRH-4">
