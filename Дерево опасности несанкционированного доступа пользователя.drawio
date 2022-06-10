@@ -1,42 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T13:01:51.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="sXNZt27vKxJt3p4n5mJd" version="19.0.3" type="github" pages="3">
-  <diagram id="D-yUW482YGTC_Zu7iGBm" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-2" value="Подмена данных&amp;nbsp;&lt;br&gt;об уязвимостях" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-3" value="Кража учетных данных&lt;br&gt;Админнистратора" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-4" value="Подмена данных&amp;nbsp;&lt;br&gt;в БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="200" width="190" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-5" value="МТМ-атака" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="170" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-8" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s8_ZTxjLeVXoFBaqplVr-3" target="s8_ZTxjLeVXoFBaqplVr-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="330" as="sourcePoint" />
-            <mxPoint x="180" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-10" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.565;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s8_ZTxjLeVXoFBaqplVr-5" target="s8_ZTxjLeVXoFBaqplVr-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="210" as="sourcePoint" />
-            <mxPoint x="440" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s8_ZTxjLeVXoFBaqplVr-11" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8_ZTxjLeVXoFBaqplVr-4" target="s8_ZTxjLeVXoFBaqplVr-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="220" as="sourcePoint" />
-            <mxPoint x="450" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2022-06-10T13:02:46.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Pb7nT9HHcgEzTTUkr0Xv" version="19.0.3" type="github" pages="4">
   <diagram name="Page-1" id="jaZjA9ey6SBZGUk1t0Iv">
     <mxGraphModel dx="2329" dy="1000" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,6 +161,52 @@
         <mxCell id="SDMlweXN4qUUG9gfwiu--13" value="Долго исполняющиеся запросы автоматически прерываются&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-80" y="760" width="180" height="180" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D-yUW482YGTC_Zu7iGBm" name="Page-3">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-2" value="Подмена данных&amp;nbsp;&lt;br&gt;об уязвимостях" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-3" value="Кража учетных данных&lt;br&gt;Админнистратора" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-4" value="Подмена данных&amp;nbsp;&lt;br&gt;в БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="200" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-5" value="МТМ-атака" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-8" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s8_ZTxjLeVXoFBaqplVr-3" target="s8_ZTxjLeVXoFBaqplVr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="330" as="sourcePoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-10" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.565;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s8_ZTxjLeVXoFBaqplVr-5" target="s8_ZTxjLeVXoFBaqplVr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8_ZTxjLeVXoFBaqplVr-11" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8_ZTxjLeVXoFBaqplVr-4" target="s8_ZTxjLeVXoFBaqplVr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PyiWqiwnA5mPzk6VU4Mn" name="Page-4">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
