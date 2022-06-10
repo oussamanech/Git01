@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T12:39:40.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="I_4gYBoQn5YQBttdqsY5" version="19.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-10T12:46:41.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="b_DsdN9f5fVrIvOQxGxV" version="19.0.3" type="github" pages="3">
   <diagram id="D-yUW482YGTC_Zu7iGBm" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-9" value="Сервер находится в подсети, к которой имеется&lt;br style=&quot;font-size: 19px;&quot;&gt;ограниченный круг лиц" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="100" y="220" width="290" height="150" as="geometry" />
+          <mxGeometry x="440" y="240" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-10" value="Злоумышленник сканирует подсеть&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="440" y="220" width="280" height="150" as="geometry" />
+          <mxGeometry x="80" y="240" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-11" value="Сервер находится в подсети, доступ к которой имеют все" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="800" y="220" width="320" height="150" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-16" value="Злоумышленник сканирует подсеть&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="10" y="450" width="230" height="150" as="geometry" />
+          <mxGeometry x="280" y="450" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="6FbULZx7t-redWRsqtDW-16" target="6FbULZx7t-redWRsqtDW-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,16 +100,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-21" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Взлом ПК пользователя, у которого есть доступ к подсети&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="340" y="450" width="260" height="150" as="geometry" />
+          <mxGeometry x="800" y="450" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-23" value="Подбор пароля администратора сетевого оборудования&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="680" width="250" height="150" as="geometry" />
+          <mxGeometry x="53" y="660" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;endArrow=none;endFill=0;fontStyle=1;strokeWidth=2;" parent="1" source="6FbULZx7t-redWRsqtDW-24" target="6FbULZx7t-redWRsqtDW-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-24" value="Эксплуатация уязвимостей сетевого оборудования&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="240" y="680" width="300" height="150" as="geometry" />
+          <mxGeometry x="590" y="660" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=19;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="6FbULZx7t-redWRsqtDW-23" target="6FbULZx7t-redWRsqtDW-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -118,22 +118,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FbULZx7t-redWRsqtDW-27" value="Злоумышленник добавляет свое устройство в список устройств, имеющих доступ к подсети&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="240" y="920" width="300" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8-Q894dEQFveqAiLZU0-1" value="&lt;span style=&quot;font-size: 19px; background-color: rgb(248, 249, 250);&quot;&gt;Доступ к&lt;/span&gt;&lt;br style=&quot;font-size: 19px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgb(248, 249, 250);&quot;&gt;серверу&lt;/span&gt;&lt;br style=&quot;font-size: 19px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgb(248, 249, 250);&quot;&gt;имеет ограниченный круг лиц&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="468.75" width="360" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8-Q894dEQFveqAiLZU0-5" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=19;strokeColor=default;strokeWidth=2;jumpStyle=none;entryX=0.615;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y8-Q894dEQFveqAiLZU0-1" target="6FbULZx7t-redWRsqtDW-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="370" as="sourcePoint" />
-            <mxPoint x="350" y="320" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="590" y="900" width="300" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="khUCScZbDv_7Tpq3c3cM">
-    <mxGraphModel dx="868" dy="393" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="900" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
