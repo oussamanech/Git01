@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T17:38:07.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="rqAXNMt0JaTUM6d8vCEL" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T17:49:57.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="XbZjmuftqCKHeu_2wZoc" version="20.0.1" type="github">
   <diagram id="OWx4hyj13moDCeKYkGol" name="Page-1">
     <mxGraphModel dx="1157" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -10,20 +10,19 @@
             <mxPoint x="405" y="833" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK6jpFJ3-W8Q47x7obFW-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_TbPJ2dsLFKyycq7Uun-34" target="TK6jpFJ3-W8Q47x7obFW-1">
+        <mxCell id="TK6jpFJ3-W8Q47x7obFW-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="R_TbPJ2dsLFKyycq7Uun-34" target="TK6jpFJ3-W8Q47x7obFW-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="784" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="747" y="781" />
-              <mxPoint x="234" y="781" />
-              <mxPoint x="234" y="777" />
-              <mxPoint x="217" y="777" />
+              <mxPoint x="804" y="765" />
+              <mxPoint x="475" y="765" />
+              <mxPoint x="475" y="772" />
+              <mxPoint x="217" y="772" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK6jpFJ3-W8Q47x7obFW-5" value="Передача json ответа" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="TK6jpFJ3-W8Q47x7obFW-4">
-          <mxGeometry x="0.1488" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="TK6jpFJ3-W8Q47x7obFW-8" value="Передача json ответа" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="TK6jpFJ3-W8Q47x7obFW-7">
+          <mxGeometry x="-0.3765" y="-34" relative="1" as="geometry">
+            <mxPoint x="-22" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R_TbPJ2dsLFKyycq7Uun-34" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;0.0&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Мобильное приложение для виртуального&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ассистента&lt;/font&gt;&lt;/span&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=0;fontSize=14;" parent="1" vertex="1">
