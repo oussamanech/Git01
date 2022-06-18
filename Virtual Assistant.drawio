@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T15:35:51.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="xJTos_2uOx9XfVsLQL8H" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T15:36:48.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="GxSJzsi47SuTOpNyt9u0" version="20.0.1" type="github" pages="2">
   <diagram id="t4Yy1t2ysF7YNW1QGC7L" name="Page-1">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,22 +11,22 @@
           <mxGeometry x="240" y="40" width="480" height="480" as="geometry" />
         </mxCell>
         <mxCell id="cNYpsyUyB5mviw2UrRPf-3" value="входной голос" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cNYpsyUyB5mviw2UrRPf-4" value="заполнить личную информацию" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cNYpsyUyB5mviw2UrRPf-5" value="запрос карты" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNYpsyUyB5mviw2UrRPf-6" value="gmail запросы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="550" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNYpsyUyB5mviw2UrRPf-7" value="поиск в Интернете" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="550" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNYpsyUyB5mviw2UrRPf-8" value="запрос Maps" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="550" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
