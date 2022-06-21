@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:38:44.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="2GAjQXT3GvOwCzO9PKao" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:39:12.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Evy9oS4ZIizuArGG0zDh" version="20.0.1" type="github" pages="5">
   <diagram id="sJbMyrKm-ca9RMT0lqFK" name="Page-1">
     <mxGraphModel dx="2113" dy="955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
         </mxCell>
         <mxCell id="Me2lp27qa4zh2gXtxX5R-11" value="&lt;div style=&quot;text-align: start; font-size: 17px;&quot;&gt;&lt;font face=&quot;Roboto, -apple-system, BlinkMacSystemFont, Apple Color Emoji, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 17px;&quot;&gt;Результат запроса пользователя&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="Me2lp27qa4zh2gXtxX5R-10">
           <mxGeometry x="0.4035" y="-17" relative="1" as="geometry">
-            <mxPoint x="49" y="-18" as="offset" />
+            <mxPoint x="121" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Me2lp27qa4zh2gXtxX5R-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.063;entryY=0.183;entryDx=0;entryDy=0;fontStyle=1;entryPerimeter=0;labelBackgroundColor=none;fontColor=#000000;" edge="1" parent="1" source="Me2lp27qa4zh2gXtxX5R-6" target="Me2lp27qa4zh2gXtxX5R-26">
@@ -630,7 +630,7 @@
         </mxCell>
         <mxCell id="Me2lp27qa4zh2gXtxX5R-21" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Отправка запроса на фронтенд&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="Me2lp27qa4zh2gXtxX5R-20">
           <mxGeometry x="-0.2323" y="40" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="14" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Me2lp27qa4zh2gXtxX5R-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=17;fontStyle=1;labelBackgroundColor=none;fontColor=#000000;" edge="1" parent="1" source="Me2lp27qa4zh2gXtxX5R-26" target="Me2lp27qa4zh2gXtxX5R-43">
@@ -705,7 +705,7 @@
         </mxCell>
         <mxCell id="Me2lp27qa4zh2gXtxX5R-33" value="Передача ответа с фронтенда" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="Me2lp27qa4zh2gXtxX5R-32">
           <mxGeometry x="-0.0807" y="29" relative="1" as="geometry">
-            <mxPoint x="11" y="-36" as="offset" />
+            <mxPoint x="37" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Me2lp27qa4zh2gXtxX5R-34" value="6,0&lt;br style=&quot;font-size: 17px;&quot;&gt;Обработка запросов&lt;br style=&quot;font-size: 17px;&quot;&gt;с фронтенда" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fontSize=17;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
