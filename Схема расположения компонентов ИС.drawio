@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T00:12:58.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="02DMk5Vxng3ZMcHcRSP4" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:07:04.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="faaQJtPsCL0judfviYrJ" version="20.0.1" type="github" pages="5">
   <diagram id="sJbMyrKm-ca9RMT0lqFK" name="Page-1">
     <mxGraphModel dx="2113" dy="1058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -865,6 +865,14 @@
         <mxCell id="Me2lp27qa4zh2gXtxX5R-64" value="данные о видео" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="2005" y="795" width="100" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fqPCPytP4IWcrD5Rlgsw" name="Page-5">
+    <mxGraphModel dx="942" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
