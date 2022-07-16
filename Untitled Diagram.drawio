@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T11:33:09.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="C7pOCt0GoJAlBB6ZcVui" version="19.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-16T17:57:13.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="U4sAVu584n7bulRcHUio" version="20.0.1" type="github" pages="4">
   <diagram id="3am3MWbP5PsgSIlDmy36" name="Page-1">
-    <mxGraphModel dx="2480" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,10 +68,10 @@
           <mxGeometry x="476" y="1843" width="279" height="81" as="geometry" />
         </mxCell>
         <mxCell id="JkIb7CXmYl9X7y8F0MtA-25" value="Знание типа и состояния его болезни" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;strokeWidth=2;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="284" y="1968" width="297" height="94" as="geometry" />
+          <mxGeometry x="324" y="2033" width="297" height="94" as="geometry" />
         </mxCell>
         <mxCell id="JkIb7CXmYl9X7y8F0MtA-26" value="Читайте последние новости и советы о его болезни" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;strokeWidth=2;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="595" y="1972" width="366" height="95" as="geometry" />
+          <mxGeometry x="723" y="2052" width="366" height="95" as="geometry" />
         </mxCell>
         <mxCell id="l0MNihK00M1IA3VTCOsr-2" value="Обновить" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;strokeWidth=2;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="846" y="721" width="120" height="69" as="geometry" />
@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sA5qALhH-WjZBngkNInu" name="Page-2">
-    <mxGraphModel dx="868" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="1698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GWPmTN5CwfsV_2RFxvjX-0" />
         <mxCell id="GWPmTN5CwfsV_2RFxvjX-1" parent="GWPmTN5CwfsV_2RFxvjX-0" />
@@ -361,7 +361,7 @@
           <mxGeometry x="25" width="902" height="702" as="geometry" />
         </mxCell>
         <mxCell id="Zo67queinTyvsY4LAaOX-53" value="USER" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;strokeColor=#000000;strokeWidth=2;align=center;" parent="GWPmTN5CwfsV_2RFxvjX-1" vertex="1">
-          <mxGeometry x="414" y="4" width="166" height="480" as="geometry" />
+          <mxGeometry x="423" y="64" width="166" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Zo67queinTyvsY4LAaOX-54" value="ID User" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;fontStyle=1" parent="Zo67queinTyvsY4LAaOX-53" vertex="1">
           <mxGeometry y="30" width="166" height="30" as="geometry" />
@@ -511,7 +511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DIB_3O82n_FjSl3ZQ21b" name="Page-3">
-    <mxGraphModel dx="868" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="2069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EBonlw7OJ6cWZrAEUZhN-0" />
         <mxCell id="EBonlw7OJ6cWZrAEUZhN-1" parent="EBonlw7OJ6cWZrAEUZhN-0" />
@@ -522,7 +522,7 @@
           <mxGeometry x="851" y="-189" width="149" height="155" as="geometry" />
         </mxCell>
         <mxCell id="nActssWGcPtm26iWxGLj-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;Patient&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;id_patient :int&lt;br&gt;full_name : string&lt;br&gt;email :string&lt;br&gt;phone : int&lt;br&gt;gender: strign&lt;br&gt;date_of_birth : date&lt;br&gt;id_patient_fk : int&lt;br&gt;id_photo_fk: int&lt;br&gt;id_bio_fk: int&lt;br&gt;id_history_fk: int&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;login(email,password)&lt;br&gt;search_hospital()&lt;br&gt;search_illnes()&lt;br&gt;search_pharmacie)&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;overflow=fill;align=left;fontStyle=1" parent="EBonlw7OJ6cWZrAEUZhN-1" vertex="1">
-          <mxGeometry x="561" y="35" width="160" height="270.5" as="geometry" />
+          <mxGeometry x="613" y="55" width="160" height="270.5" as="geometry" />
         </mxCell>
         <mxCell id="nActssWGcPtm26iWxGLj-2" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;Doctor&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;id_doctor :int&lt;br&gt;Full_Name: string&lt;br&gt;email :string&lt;br&gt;phone : int&lt;br&gt;gender: strign&lt;br&gt;date_of_birth : date&lt;br&gt;id_hospiatl : int&lt;br&gt;id_photo_fk: int&lt;br&gt;id_portofio_fk: int&lt;br&gt;id_user_fk: int&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;login(email,password)&lt;br&gt;search_of_patient()&lt;br&gt;search_hospital()&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;overflow=fill;align=left;fontStyle=1" parent="EBonlw7OJ6cWZrAEUZhN-1" vertex="1">
           <mxGeometry x="934" y="35" width="160" height="261" as="geometry" />
@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aG1_vs8WDBhhmhVM4gWE" name="Page-4">
-    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7PmWfCGSD7GHoug4VhYO-0" />
         <mxCell id="7PmWfCGSD7GHoug4VhYO-1" parent="7PmWfCGSD7GHoug4VhYO-0" />
@@ -707,7 +707,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_46nDsJAi7i67KuIJ2Wb-14" value="Выбор симптомов" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7PmWfCGSD7GHoug4VhYO-1" vertex="1">
-          <mxGeometry x="340" y="820" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="815" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_46nDsJAi7i67KuIJ2Wb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="7PmWfCGSD7GHoug4VhYO-1" source="_46nDsJAi7i67KuIJ2Wb-15" target="_46nDsJAi7i67KuIJ2Wb-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -720,7 +720,12 @@
           <mxGeometry x="540" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_46nDsJAi7i67KuIJ2Wb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7PmWfCGSD7GHoug4VhYO-1" source="_46nDsJAi7i67KuIJ2Wb-19" target="_46nDsJAi7i67KuIJ2Wb-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="795" />
+              <mxPoint x="400" y="816" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_46nDsJAi7i67KuIJ2Wb-28" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_46nDsJAi7i67KuIJ2Wb-26" vertex="1" connectable="0">
           <mxGeometry x="0.1207" y="1" relative="1" as="geometry">
